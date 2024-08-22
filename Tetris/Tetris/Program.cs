@@ -14,6 +14,7 @@ namespace Tetris
         static void Main(string[] args)
         {            
             piezas.Add(new Linea(1, 5));
+            piezas.Add(new Linea(1, 25));
             /*Pieza p = new Pieza("linea");
 
             while (true)
@@ -22,8 +23,11 @@ namespace Tetris
                 p.derecha();
             }*/
 
-            piezas[0].GetType = 
 
+            foreach (Pieza pieza in piezas)
+            {
+                pieza.Dibujar();
+            }
 
 
             Console.ReadKey();

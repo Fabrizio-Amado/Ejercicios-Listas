@@ -9,14 +9,14 @@ namespace Tetris
     public class Bloque
     {
         string tipo = "*";
-        int x;
-        int y;
-        public int X { get { return x; } set { x = value; } }
-        public int Y { get { return y; } set { y = value; } }
-        public Bloque(int x, int y)
+        int col;
+        int row;
+        public int Col { get { return col; } set { col = value; } }
+        public int Row { get { return row; } set { row = value; } }
+        public Bloque(int col, int row)
         {
-            this.X = x;
-            this.Y = y;
+            this.col = col;
+            this.row = row;
         }
 
 

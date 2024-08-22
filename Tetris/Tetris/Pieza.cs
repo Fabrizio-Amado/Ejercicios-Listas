@@ -8,11 +8,19 @@ namespace Tetris
 {
     public class Pieza
     {
+        public List<Bloque> bloques = new List<Bloque>();
         public Pieza()
         {
 
         }
 
-
+        public void Dibujar()
+        {
+            foreach (Bloque bloque in bloques)
+            {
+                Console.SetCursorPosition(bloque.Col, bloque.Row);
+                Console.Write("*");
+            }
+        }
     }
 }
