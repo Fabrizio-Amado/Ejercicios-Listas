@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\A-15\source\repos\Tetris\Tetris\obj\Debug\Tetris.csproj.AssemblyReference.cache
 C:\Users\A-15\source\repos\Tetris\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
 C:\Users\A-15\source\repos\Tetris\Tetris\bin\Debug\Tetris.exe.config
@@ -12,3 +13,12 @@ C:\Users\A-15\source\repos\Ejercicios-Listas\Tetris\Tetris\obj\Debug\Tetris.cspr
 C:\Users\A-15\source\repos\Ejercicios-Listas\Tetris\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
 C:\Users\A-15\source\repos\Ejercicios-Listas\Tetris\Tetris\obj\Debug\Tetris.exe
 C:\Users\A-15\source\repos\Ejercicios-Listas\Tetris\Tetris\obj\Debug\Tetris.pdb
+=======
+C:\Users\A-15\source\repos\Tetris\Tetris\obj\Debug\Tetris.csproj.AssemblyReference.cache
+C:\Users\A-15\source\repos\Tetris\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\A-15\source\repos\Tetris\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\A-15\source\repos\Tetris\Tetris\bin\Debug\Tetris.exe
+C:\Users\A-15\source\repos\Tetris\Tetris\bin\Debug\Tetris.pdb
+C:\Users\A-15\source\repos\Tetris\Tetris\obj\Debug\Tetris.exe
+C:\Users\A-15\source\repos\Tetris\Tetris\obj\Debug\Tetris.pdb
+>>>>>>> 7dc2ab00139d826f66422fb8bf8ed102d74b858b
