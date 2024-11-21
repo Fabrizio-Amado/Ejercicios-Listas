@@ -19,3 +19,10 @@ C:\Users\Alumno\Source\Repos\ejercicio_menu\menu\proyecto_menu\obj\Debug\proyect
 C:\Users\Alumno\Source\Repos\ejercicio_menu\menu\proyecto_menu\obj\Debug\proyecto_menu.csproj.CoreCompileInputs.cache
 C:\Users\Alumno\Source\Repos\ejercicio_menu\menu\proyecto_menu\obj\Debug\proyecto_menu.exe
 C:\Users\Alumno\Source\Repos\ejercicio_menu\menu\proyecto_menu\obj\Debug\proyecto_menu.pdb
+C:\Users\Fabrizio\source\repos\Ejercicios-Listas\trabajos_poo_ti\menu\proyecto_menu\bin\Debug\proyecto_menu.exe.config
+C:\Users\Fabrizio\source\repos\Ejercicios-Listas\trabajos_poo_ti\menu\proyecto_menu\bin\Debug\proyecto_menu.exe
+C:\Users\Fabrizio\source\repos\Ejercicios-Listas\trabajos_poo_ti\menu\proyecto_menu\bin\Debug\proyecto_menu.pdb
+C:\Users\Fabrizio\source\repos\Ejercicios-Listas\trabajos_poo_ti\menu\proyecto_menu\obj\Debug\proyecto_menu.csproj.AssemblyReference.cache
+C:\Users\Fabrizio\source\repos\Ejercicios-Listas\trabajos_poo_ti\menu\proyecto_menu\obj\Debug\proyecto_menu.csproj.CoreCompileInputs.cache
+C:\Users\Fabrizio\source\repos\Ejercicios-Listas\trabajos_poo_ti\menu\proyecto_menu\obj\Debug\proyecto_menu.exe
+C:\Users\Fabrizio\source\repos\Ejercicios-Listas\trabajos_poo_ti\menu\proyecto_menu\obj\Debug\proyecto_menu.pdb

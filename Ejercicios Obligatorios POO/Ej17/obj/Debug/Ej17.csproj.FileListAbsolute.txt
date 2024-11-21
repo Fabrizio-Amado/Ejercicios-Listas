@@ -1,0 +1,7 @@
+C:\Users\Fabrizio\source\repos\Fabrizio-POO\Ejercicios Obligatorios POO\Ej17\bin\Debug\Ej17.exe.config
+C:\Users\Fabrizio\source\repos\Fabrizio-POO\Ejercicios Obligatorios POO\Ej17\bin\Debug\Ej17.exe
+C:\Users\Fabrizio\source\repos\Fabrizio-POO\Ejercicios Obligatorios POO\Ej17\bin\Debug\Ej17.pdb
+C:\Users\Fabrizio\source\repos\Fabrizio-POO\Ejercicios Obligatorios POO\Ej17\obj\Debug\Ej17.csproj.AssemblyReference.cache
+C:\Users\Fabrizio\source\repos\Fabrizio-POO\Ejercicios Obligatorios POO\Ej17\obj\Debug\Ej17.csproj.CoreCompileInputs.cache
+C:\Users\Fabrizio\source\repos\Fabrizio-POO\Ejercicios Obligatorios POO\Ej17\obj\Debug\Ej17.exe
+C:\Users\Fabrizio\source\repos\Fabrizio-POO\Ejercicios Obligatorios POO\Ej17\obj\Debug\Ej17.pdb

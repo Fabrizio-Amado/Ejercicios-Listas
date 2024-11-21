@@ -14,8 +14,6 @@ public class MenuNavegacion
 
     public int posMenu(int posMenu)
     {
-        int posUbicacion;
-
         int x = 1;
         int tamanio = 0;
         

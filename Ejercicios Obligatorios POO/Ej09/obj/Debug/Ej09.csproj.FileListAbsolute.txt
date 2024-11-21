@@ -1,0 +1,7 @@
+C:\Users\Fabrizio\source\repos\Fabrizio-POO\Ejercicios Obligatorios POO\Ej09\bin\Debug\Ej09.exe.config
+C:\Users\Fabrizio\source\repos\Fabrizio-POO\Ejercicios Obligatorios POO\Ej09\bin\Debug\Ej09.exe
+C:\Users\Fabrizio\source\repos\Fabrizio-POO\Ejercicios Obligatorios POO\Ej09\bin\Debug\Ej09.pdb
+C:\Users\Fabrizio\source\repos\Fabrizio-POO\Ejercicios Obligatorios POO\Ej09\obj\Debug\Ej09.csproj.AssemblyReference.cache
+C:\Users\Fabrizio\source\repos\Fabrizio-POO\Ejercicios Obligatorios POO\Ej09\obj\Debug\Ej09.csproj.CoreCompileInputs.cache
+C:\Users\Fabrizio\source\repos\Fabrizio-POO\Ejercicios Obligatorios POO\Ej09\obj\Debug\Ej09.exe
+C:\Users\Fabrizio\source\repos\Fabrizio-POO\Ejercicios Obligatorios POO\Ej09\obj\Debug\Ej09.pdb

@@ -1,0 +1,14 @@
+C:\Users\A-15\source\repos\Fabrizio-POO\Ejercicios Obligatorios POO\Ej06\bin\Debug\Ej06.exe.config
+C:\Users\A-15\source\repos\Fabrizio-POO\Ejercicios Obligatorios POO\Ej06\bin\Debug\Ej06.exe
+C:\Users\A-15\source\repos\Fabrizio-POO\Ejercicios Obligatorios POO\Ej06\bin\Debug\Ej06.pdb
+C:\Users\A-15\source\repos\Fabrizio-POO\Ejercicios Obligatorios POO\Ej06\obj\Debug\Ej06.csproj.AssemblyReference.cache
+C:\Users\A-15\source\repos\Fabrizio-POO\Ejercicios Obligatorios POO\Ej06\obj\Debug\Ej06.csproj.CoreCompileInputs.cache
+C:\Users\A-15\source\repos\Fabrizio-POO\Ejercicios Obligatorios POO\Ej06\obj\Debug\Ej06.exe
+C:\Users\A-15\source\repos\Fabrizio-POO\Ejercicios Obligatorios POO\Ej06\obj\Debug\Ej06.pdb
+C:\Users\Fabrizio\source\repos\Fabrizio-POO\Ejercicios Obligatorios POO\Ej06\bin\Debug\Ej06.exe.config
+C:\Users\Fabrizio\source\repos\Fabrizio-POO\Ejercicios Obligatorios POO\Ej06\bin\Debug\Ej06.exe
+C:\Users\Fabrizio\source\repos\Fabrizio-POO\Ejercicios Obligatorios POO\Ej06\bin\Debug\Ej06.pdb
+C:\Users\Fabrizio\source\repos\Fabrizio-POO\Ejercicios Obligatorios POO\Ej06\obj\Debug\Ej06.csproj.AssemblyReference.cache
+C:\Users\Fabrizio\source\repos\Fabrizio-POO\Ejercicios Obligatorios POO\Ej06\obj\Debug\Ej06.csproj.CoreCompileInputs.cache
+C:\Users\Fabrizio\source\repos\Fabrizio-POO\Ejercicios Obligatorios POO\Ej06\obj\Debug\Ej06.exe
+C:\Users\Fabrizio\source\repos\Fabrizio-POO\Ejercicios Obligatorios POO\Ej06\obj\Debug\Ej06.pdb
